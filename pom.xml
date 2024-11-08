@@ -29,11 +29,6 @@
     <sonar.jacoco.reportPath>${project.basedir}/../target/jacoco.exec</sonar.jacoco.reportPath>
     <sonar.language>java</sonar.language>
              
-    <sonar.projectKey>EKART</sonar.projectKey>
-    <sonar.projectName>EKART</sonar.projectName>
-    <sonar.host.url>http://your-sonarqube-server-url</sonar.host.url>
-    <sonar.login>squ_7417a9cd39e4df7c0a554b72f444a7c25d13ba11</sonar.login>
-
     </properties>
 
     <dependencies>
